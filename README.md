@@ -20,4 +20,4 @@ This project involves a comprehensive analysis of sales data for **Blinkit**, In
 * **Advanced Formulae:** Leveraged Excel functions for calculating dynamic KPIs.
 * **Data Visualization:** Designed an interactive interface using various charts (Donut, Bar, Area, and Funnel charts) and **Slicers** for real-time filtering by Outlet Size, Location Type, and Item Type.
 
-**5. Dashboard image**   > https://github.com/Gupt20/Blinkit-Sales-Analysis/blob/main/Blinkit_Sales_Analysis_Dashboard_image.jpg
+**5. Dashboard image**   > ![Description of Image](Analysis/blob/main/Blinkit_Sales_Analysis_Dashboard_image.jpg)
