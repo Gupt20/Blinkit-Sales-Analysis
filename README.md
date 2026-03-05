@@ -1,2 +1,2 @@
 # Excel-Projects
-Here are some Excel related Data Analytis projetcs.  
+This is the Dashboard image > https://github.com/Gupt20/Blinkit-Sales-Analysis/blob/main/Blinkit_Sales_Analysis_Dashboard_image.jpg
